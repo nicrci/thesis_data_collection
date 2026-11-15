@@ -20,7 +20,7 @@ The analysis was conducted using R and involved:
 4. Visualization
 5. Validation of analytical outputs
 
-AI-assisted tools were used during coding. All generated code was reviewed, tested, and validated by the researcher.
+AI-assisted tools (Gemini CLI) were used during coding. All generated code was reviewed, tested, and validated by the researcher.
 
 ## Repository Structure
 
