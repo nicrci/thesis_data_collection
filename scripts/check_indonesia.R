@@ -1,0 +1,6 @@
+library(DBI)
+library(RSQLite)
+con <- dbConnect(SQLite(), "investments.db")
+res <- dbGetQuery(con, "SELECT * FROM investments WHERE country = 'Indonesia' LIMIT 10")
+print(res)
+dbDisconnect(con)

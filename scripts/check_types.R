@@ -1,0 +1,7 @@
+library(DBI)
+library(RSQLite)
+library(dplyr)
+con <- dbConnect(SQLite(), "investments.db")
+df <- dbReadTable(con, "investments") |> filter(country == "Indonesia")
+print(df |> group_by(type) |> summarise(count = n(), total_amount = sum(as.numeric(amount), na.rm = TRUE)))
+dbDisconnect(con)
