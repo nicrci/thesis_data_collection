@@ -1,0 +1,1448 @@
+region,sector,year,yearly_amount
+Central Asia,Agriculture,2007,110
+Central Asia,Agriculture,2014,730
+Central Asia,Agriculture,2019,470
+Central Asia,Agriculture,2024,260
+Central Asia,Agriculture,2025,520
+Central Asia,Chemicals,2010,1260
+Central Asia,Chemicals,2014,480
+Central Asia,Chemicals,2017,1870
+Central Asia,Chemicals,2019,230
+Central Asia,Chemicals,2021,460
+Central Asia,Chemicals,2022,140
+Central Asia,Chemicals,2024,3530
+Central Asia,Chemicals,2025,190
+Central Asia,Energy,2005,4200
+Central Asia,Energy,2006,2310
+Central Asia,Energy,2007,2340
+Central Asia,Energy,2008,250
+Central Asia,Energy,2009,7860
+Central Asia,Energy,2010,730
+Central Asia,Energy,2011,1240
+Central Asia,Energy,2012,5970
+Central Asia,Energy,2013,5300
+Central Asia,Energy,2014,7420
+Central Asia,Energy,2015,950
+Central Asia,Energy,2016,340
+Central Asia,Energy,2017,300
+Central Asia,Energy,2018,260
+Central Asia,Energy,2019,220
+Central Asia,Energy,2020,120
+Central Asia,Energy,2021,7510
+Central Asia,Energy,2022,520
+Central Asia,Energy,2023,4080
+Central Asia,Energy,2024,3630
+Central Asia,Energy,2025,840
+Central Asia,Entertainment,2023,310
+Central Asia,Finance,2017,110
+Central Asia,Finance,2019,230
+Central Asia,Logistics,2024,480
+Central Asia,Metals,2005,330
+Central Asia,Metals,2010,310
+Central Asia,Metals,2012,220
+Central Asia,Metals,2014,1050
+Central Asia,Metals,2015,300
+Central Asia,Metals,2017,710
+Central Asia,Metals,2019,780
+Central Asia,Metals,2021,220
+Central Asia,Metals,2022,480
+Central Asia,Metals,2025,1300
+Central Asia,Other,2010,110
+Central Asia,Other,2018,160
+Central Asia,Other,2025,390
+Central Asia,Real estate,2008,170
+Central Asia,Real estate,2012,300
+Central Asia,Real estate,2016,180
+Central Asia,Real estate,2017,420
+Central Asia,Real estate,2019,410
+Central Asia,Real estate,2020,510
+Central Asia,Real estate,2021,780
+Central Asia,Real estate,2022,270
+Central Asia,Real estate,2023,120
+Central Asia,Transport,2006,300
+Central Asia,Transport,2009,260
+Central Asia,Transport,2010,150
+Central Asia,Transport,2013,610
+Central Asia,Transport,2014,1290
+Central Asia,Transport,2015,400
+Central Asia,Transport,2017,1110
+Central Asia,Transport,2019,1240
+Central Asia,Transport,2020,1710
+Central Asia,Transport,2021,110
+Central Asia,Transport,2023,170
+Central Asia,Transport,2025,2990
+Central Asia,Utilities,2012,190
+Central Asia,Utilities,2018,100
+Central Asia,Utilities,2025,1410
+East Asia,Agriculture,2018,240
+East Asia,Chemicals,2020,180
+East Asia,Chemicals,2023,270
+East Asia,Energy,2005,200
+East Asia,Energy,2006,110
+East Asia,Energy,2009,750
+East Asia,Energy,2011,1010
+East Asia,Energy,2013,130
+East Asia,Energy,2015,1500
+East Asia,Energy,2016,100
+East Asia,Energy,2017,220
+East Asia,Energy,2018,280
+East Asia,Energy,2019,570
+East Asia,Energy,2021,340
+East Asia,Energy,2023,950
+East Asia,Energy,2024,310
+East Asia,Entertainment,2010,100
+East Asia,Entertainment,2014,500
+East Asia,Entertainment,2017,110
+East Asia,Entertainment,2021,260
+East Asia,Entertainment,2022,140
+East Asia,Entertainment,2025,180
+East Asia,Finance,2011,190
+East Asia,Finance,2015,1030
+East Asia,Finance,2016,260
+East Asia,Finance,2017,200
+East Asia,Health,2012,900
+East Asia,Health,2017,240
+East Asia,Health,2020,630
+East Asia,Logistics,2011,800
+East Asia,Logistics,2012,140
+East Asia,Logistics,2024,200
+East Asia,Metals,2008,150
+East Asia,Metals,2015,1940
+East Asia,Other,2011,240
+East Asia,Other,2013,160
+East Asia,Other,2015,130
+East Asia,Other,2016,470
+East Asia,Other,2019,950
+East Asia,Other,2021,650
+East Asia,Real estate,2009,120
+East Asia,Real estate,2010,990
+East Asia,Real estate,2014,220
+East Asia,Real estate,2015,1190
+East Asia,Real estate,2016,500
+East Asia,Real estate,2017,2310
+East Asia,Real estate,2018,610
+East Asia,Real estate,2022,140
+East Asia,Technology,2011,180
+East Asia,Technology,2015,280
+East Asia,Technology,2016,200
+East Asia,Technology,2017,600
+East Asia,Technology,2020,950
+East Asia,Technology,2023,790
+East Asia,Technology,2024,420
+East Asia,Tourism,2013,980
+East Asia,Tourism,2014,1100
+East Asia,Tourism,2015,150
+East Asia,Tourism,2016,420
+East Asia,Tourism,2017,1830
+East Asia,Tourism,2023,120
+East Asia,Transport,2011,2000
+East Asia,Transport,2017,1770
+East Asia,Transport,2018,1810
+East Asia,Transport,2019,380
+East Asia,Transport,2021,660
+East Asia,Transport,2022,200
+East Asia,Transport,2023,910
+East Asia,Transport,2025,250
+East Asia,Utilities,2019,270
+Europe,Agriculture,2006,480
+Europe,Agriculture,2009,370
+Europe,Agriculture,2011,250
+Europe,Agriculture,2012,2060
+Europe,Agriculture,2014,3580
+Europe,Agriculture,2015,120
+Europe,Agriculture,2016,2570
+Europe,Agriculture,2017,43970
+Europe,Agriculture,2018,860
+Europe,Agriculture,2019,450
+Europe,Agriculture,2020,1100
+Europe,Agriculture,2021,130
+Europe,Agriculture,2024,140
+Europe,Chemicals,2007,700
+Europe,Chemicals,2010,190
+Europe,Chemicals,2011,3930
+Europe,Chemicals,2017,130
+Europe,Chemicals,2018,230
+Europe,Chemicals,2019,130
+Europe,Chemicals,2020,860
+Europe,Chemicals,2023,590
+Europe,Chemicals,2024,720
+Europe,Energy,2008,8870
+Europe,Energy,2009,8180
+Europe,Energy,2010,1890
+Europe,Energy,2011,9210
+Europe,Energy,2012,4720
+Europe,Energy,2013,1010
+Europe,Energy,2014,9370
+Europe,Energy,2015,2120
+Europe,Energy,2016,4790
+Europe,Energy,2017,5400
+Europe,Energy,2018,4560
+Europe,Energy,2019,9550
+Europe,Energy,2020,1230
+Europe,Energy,2021,2160
+Europe,Energy,2022,1260
+Europe,Energy,2023,1700
+Europe,Energy,2024,3650
+Europe,Energy,2025,450
+Europe,Entertainment,2014,220
+Europe,Entertainment,2015,1720
+Europe,Entertainment,2016,11620
+Europe,Entertainment,2017,2810
+Europe,Entertainment,2018,3520
+Europe,Entertainment,2019,8450
+Europe,Entertainment,2020,3960
+Europe,Entertainment,2021,1550
+Europe,Entertainment,2022,410
+Europe,Entertainment,2023,1520
+Europe,Entertainment,2024,1650
+Europe,Entertainment,2025,2150
+Europe,Finance,2006,100
+Europe,Finance,2007,5830
+Europe,Finance,2010,960
+Europe,Finance,2011,720
+Europe,Finance,2014,4640
+Europe,Finance,2015,6730
+Europe,Finance,2016,340
+Europe,Finance,2017,15550
+Europe,Finance,2018,3780
+Europe,Finance,2019,1120
+Europe,Finance,2020,870
+Europe,Finance,2021,820
+Europe,Finance,2023,100
+Europe,Finance,2024,200
+Europe,Health,2010,270
+Europe,Health,2014,590
+Europe,Health,2016,1460
+Europe,Health,2017,630
+Europe,Health,2018,2990
+Europe,Health,2019,620
+Europe,Health,2020,320
+Europe,Health,2021,1050
+Europe,Health,2022,1360
+Europe,Health,2023,310
+Europe,Logistics,2010,100
+Europe,Logistics,2013,470
+Europe,Logistics,2014,130
+Europe,Logistics,2015,3150
+Europe,Logistics,2016,140
+Europe,Logistics,2017,14230
+Europe,Logistics,2019,980
+Europe,Logistics,2020,120
+Europe,Metals,2006,800
+Europe,Metals,2011,100
+Europe,Metals,2012,1440
+Europe,Metals,2013,250
+Europe,Metals,2014,400
+Europe,Metals,2016,220
+Europe,Metals,2017,340
+Europe,Metals,2018,1500
+Europe,Metals,2019,670
+Europe,Metals,2020,620
+Europe,Metals,2021,410
+Europe,Metals,2022,1180
+Europe,Metals,2023,390
+Europe,Metals,2024,310
+Europe,Other,2011,1110
+Europe,Other,2012,700
+Europe,Other,2014,970
+Europe,Other,2015,310
+Europe,Other,2016,3390
+Europe,Other,2017,1180
+Europe,Other,2018,4380
+Europe,Other,2019,290
+Europe,Other,2020,300
+Europe,Other,2021,4650
+Europe,Other,2022,590
+Europe,Other,2023,730
+Europe,Other,2025,4050
+Europe,Real estate,2007,790
+Europe,Real estate,2008,730
+Europe,Real estate,2009,450
+Europe,Real estate,2010,170
+Europe,Real estate,2011,240
+Europe,Real estate,2012,3030
+Europe,Real estate,2013,4910
+Europe,Real estate,2014,4180
+Europe,Real estate,2015,3960
+Europe,Real estate,2016,4500
+Europe,Real estate,2017,4500
+Europe,Real estate,2018,570
+Europe,Real estate,2019,440
+Europe,Real estate,2020,720
+Europe,Real estate,2022,110
+Europe,Real estate,2023,230
+Europe,Real estate,2024,1710
+Europe,Real estate,2025,110
+Europe,Technology,2009,1180
+Europe,Technology,2010,970
+Europe,Technology,2011,1300
+Europe,Technology,2012,1690
+Europe,Technology,2013,2200
+Europe,Technology,2014,940
+Europe,Technology,2015,2140
+Europe,Technology,2016,12660
+Europe,Technology,2017,1870
+Europe,Technology,2018,6090
+Europe,Technology,2019,3730
+Europe,Technology,2020,1340
+Europe,Technology,2021,1200
+Europe,Technology,2022,570
+Europe,Technology,2023,1730
+Europe,Technology,2024,310
+Europe,Technology,2025,1310
+Europe,Tourism,2010,130
+Europe,Tourism,2013,2000
+Europe,Tourism,2014,1830
+Europe,Tourism,2015,1810
+Europe,Tourism,2016,3910
+Europe,Tourism,2017,3230
+Europe,Tourism,2018,560
+Europe,Tourism,2019,780
+Europe,Tourism,2020,180
+Europe,Transport,2005,100
+Europe,Transport,2007,270
+Europe,Transport,2008,5790
+Europe,Transport,2009,260
+Europe,Transport,2010,3510
+Europe,Transport,2011,1300
+Europe,Transport,2012,1690
+Europe,Transport,2013,2730
+Europe,Transport,2014,3760
+Europe,Transport,2015,15930
+Europe,Transport,2016,5270
+Europe,Transport,2017,4820
+Europe,Transport,2018,14690
+Europe,Transport,2019,11510
+Europe,Transport,2020,1550
+Europe,Transport,2021,4430
+Europe,Transport,2022,3330
+Europe,Transport,2023,8410
+Europe,Transport,2024,11140
+Europe,Transport,2025,5420
+Europe,Utilities,2012,1120
+Europe,Utilities,2013,100
+Europe,Utilities,2016,1930
+Europe,Utilities,2017,310
+Europe,Utilities,2018,470
+Europe,Utilities,2019,250
+Europe,Utilities,2021,3910
+MENA,Agriculture,2005,210
+MENA,Agriculture,2008,100
+MENA,Agriculture,2010,2270
+MENA,Agriculture,2011,450
+MENA,Agriculture,2012,320
+MENA,Agriculture,2014,1560
+MENA,Agriculture,2015,500
+MENA,Agriculture,2016,1750
+MENA,Agriculture,2017,400
+MENA,Agriculture,2018,500
+MENA,Agriculture,2024,1100
+MENA,Agriculture,2025,1000
+MENA,Chemicals,2005,350
+MENA,Chemicals,2007,350
+MENA,Chemicals,2008,560
+MENA,Chemicals,2011,130
+MENA,Chemicals,2014,260
+MENA,Chemicals,2015,450
+MENA,Chemicals,2016,120
+MENA,Chemicals,2017,1530
+MENA,Chemicals,2018,410
+MENA,Chemicals,2020,800
+MENA,Chemicals,2022,940
+MENA,Chemicals,2023,1100
+MENA,Chemicals,2024,790
+MENA,Chemicals,2025,700
+MENA,Energy,2005,680
+MENA,Energy,2006,2840
+MENA,Energy,2007,3300
+MENA,Energy,2008,6290
+MENA,Energy,2009,13430
+MENA,Energy,2010,6960
+MENA,Energy,2011,5360
+MENA,Energy,2012,2860
+MENA,Energy,2013,10490
+MENA,Energy,2014,2950
+MENA,Energy,2015,4830
+MENA,Energy,2016,11330
+MENA,Energy,2017,7250
+MENA,Energy,2018,12560
+MENA,Energy,2019,7460
+MENA,Energy,2020,3860
+MENA,Energy,2021,9000
+MENA,Energy,2022,12340
+MENA,Energy,2023,8720
+MENA,Energy,2024,16660
+MENA,Energy,2025,18240
+MENA,Entertainment,2009,510
+MENA,Entertainment,2013,160
+MENA,Entertainment,2016,4740
+MENA,Entertainment,2019,200
+MENA,Entertainment,2024,1940
+MENA,Entertainment,2025,2160
+MENA,Finance,2007,430
+MENA,Finance,2014,240
+MENA,Finance,2017,390
+MENA,Health,2009,230
+MENA,Health,2011,110
+MENA,Health,2013,360
+MENA,Health,2017,530
+MENA,Health,2018,100
+MENA,Health,2021,300
+MENA,Health,2025,370
+MENA,Logistics,2007,380
+MENA,Logistics,2009,100
+MENA,Logistics,2012,160
+MENA,Logistics,2014,130
+MENA,Logistics,2016,670
+MENA,Logistics,2018,120
+MENA,Logistics,2020,500
+MENA,Logistics,2021,140
+MENA,Logistics,2022,510
+MENA,Logistics,2023,1040
+MENA,Logistics,2025,100
+MENA,Metals,2005,900
+MENA,Metals,2006,940
+MENA,Metals,2007,2300
+MENA,Metals,2008,200
+MENA,Metals,2011,380
+MENA,Metals,2012,690
+MENA,Metals,2013,1640
+MENA,Metals,2014,350
+MENA,Metals,2015,510
+MENA,Metals,2016,890
+MENA,Metals,2017,220
+MENA,Metals,2022,1100
+MENA,Metals,2023,440
+MENA,Metals,2024,1280
+MENA,Metals,2025,300
+MENA,Other,2008,610
+MENA,Other,2009,1080
+MENA,Other,2011,260
+MENA,Other,2012,910
+MENA,Other,2013,270
+MENA,Other,2015,1000
+MENA,Other,2016,580
+MENA,Other,2017,1630
+MENA,Other,2018,990
+MENA,Other,2021,340
+MENA,Other,2022,560
+MENA,Other,2023,160
+MENA,Other,2024,270
+MENA,Other,2025,1550
+MENA,Real estate,2005,750
+MENA,Real estate,2006,1320
+MENA,Real estate,2007,600
+MENA,Real estate,2008,480
+MENA,Real estate,2009,1590
+MENA,Real estate,2010,1570
+MENA,Real estate,2011,2600
+MENA,Real estate,2012,2640
+MENA,Real estate,2013,350
+MENA,Real estate,2014,2960
+MENA,Real estate,2015,370
+MENA,Real estate,2016,3140
+MENA,Real estate,2017,3800
+MENA,Real estate,2018,5430
+MENA,Real estate,2019,2830
+MENA,Real estate,2020,870
+MENA,Real estate,2021,2940
+MENA,Real estate,2022,1000
+MENA,Real estate,2023,3260
+MENA,Real estate,2024,6750
+MENA,Real estate,2025,2710
+MENA,Technology,2015,100
+MENA,Technology,2016,150
+MENA,Technology,2018,250
+MENA,Technology,2020,110
+MENA,Technology,2022,110
+MENA,Technology,2023,400
+MENA,Technology,2025,1990
+MENA,Tourism,2007,140
+MENA,Tourism,2011,320
+MENA,Tourism,2013,850
+MENA,Tourism,2014,1080
+MENA,Tourism,2015,300
+MENA,Tourism,2016,150
+MENA,Tourism,2017,350
+MENA,Tourism,2019,110
+MENA,Tourism,2024,380
+MENA,Transport,2005,270
+MENA,Transport,2006,6820
+MENA,Transport,2007,670
+MENA,Transport,2008,3890
+MENA,Transport,2009,4800
+MENA,Transport,2010,650
+MENA,Transport,2011,1760
+MENA,Transport,2012,2930
+MENA,Transport,2013,2940
+MENA,Transport,2014,4520
+MENA,Transport,2015,1340
+MENA,Transport,2016,1190
+MENA,Transport,2017,2540
+MENA,Transport,2018,3700
+MENA,Transport,2019,3240
+MENA,Transport,2020,350
+MENA,Transport,2021,1700
+MENA,Transport,2022,1910
+MENA,Transport,2023,860
+MENA,Transport,2024,4090
+MENA,Transport,2025,2350
+MENA,Utilities,2005,250
+MENA,Utilities,2008,1060
+MENA,Utilities,2009,720
+MENA,Utilities,2010,510
+MENA,Utilities,2012,1120
+MENA,Utilities,2013,830
+MENA,Utilities,2014,890
+MENA,Utilities,2015,1610
+MENA,Utilities,2016,2890
+MENA,Utilities,2017,1370
+MENA,Utilities,2019,2970
+MENA,Utilities,2020,750
+MENA,Utilities,2021,200
+MENA,Utilities,2022,680
+MENA,Utilities,2023,760
+North America,Agriculture,2008,140
+North America,Agriculture,2010,140
+North America,Agriculture,2011,290
+North America,Agriculture,2013,7100
+North America,Agriculture,2014,220
+North America,Agriculture,2015,130
+North America,Agriculture,2016,750
+North America,Chemicals,2016,110
+North America,Chemicals,2018,1210
+North America,Chemicals,2019,140
+North America,Chemicals,2021,160
+North America,Energy,2005,250
+North America,Energy,2007,100
+North America,Energy,2009,3740
+North America,Energy,2010,11070
+North America,Energy,2011,5450
+North America,Energy,2012,24400
+North America,Energy,2013,4200
+North America,Energy,2014,3900
+North America,Energy,2015,2920
+North America,Energy,2016,2460
+North America,Energy,2017,1560
+North America,Energy,2018,3280
+North America,Energy,2019,550
+North America,Energy,2020,750
+North America,Energy,2021,880
+North America,Energy,2022,520
+North America,Energy,2023,1000
+North America,Energy,2024,430
+North America,Energy,2025,430
+North America,Entertainment,2011,500
+North America,Entertainment,2012,2930
+North America,Entertainment,2013,350
+North America,Entertainment,2014,650
+North America,Entertainment,2015,2020
+North America,Entertainment,2016,5910
+North America,Entertainment,2017,3170
+North America,Entertainment,2018,350
+North America,Entertainment,2019,230
+North America,Entertainment,2020,200
+North America,Finance,2007,8030
+North America,Finance,2008,4470
+North America,Finance,2009,2420
+North America,Finance,2010,1700
+North America,Finance,2011,140
+North America,Finance,2012,1700
+North America,Finance,2013,100
+North America,Finance,2014,710
+North America,Finance,2015,2430
+North America,Finance,2016,1280
+North America,Finance,2017,450
+North America,Finance,2022,110
+North America,Health,2008,360
+North America,Health,2012,120
+North America,Health,2013,740
+North America,Health,2015,810
+North America,Health,2016,540
+North America,Health,2017,2820
+North America,Health,2018,490
+North America,Health,2019,2440
+North America,Health,2020,380
+North America,Health,2021,2300
+North America,Health,2022,180
+North America,Health,2023,160
+North America,Logistics,2011,220
+North America,Logistics,2014,610
+North America,Logistics,2015,1010
+North America,Logistics,2016,2060
+North America,Logistics,2023,100
+North America,Logistics,2024,100
+North America,Metals,2005,500
+North America,Metals,2006,110
+North America,Metals,2007,100
+North America,Metals,2008,210
+North America,Metals,2009,3040
+North America,Metals,2010,520
+North America,Metals,2011,680
+North America,Metals,2012,520
+North America,Metals,2016,300
+North America,Metals,2017,170
+North America,Metals,2018,1970
+North America,Metals,2019,1990
+North America,Metals,2021,210
+North America,Metals,2023,130
+North America,Metals,2024,380
+North America,Metals,2025,190
+North America,Other,2007,120
+North America,Other,2008,180
+North America,Other,2009,350
+North America,Other,2010,1150
+North America,Other,2011,480
+North America,Other,2012,110
+North America,Other,2013,330
+North America,Other,2014,490
+North America,Other,2015,300
+North America,Other,2016,7090
+North America,Other,2017,510
+North America,Other,2018,4130
+North America,Other,2019,760
+North America,Other,2020,940
+North America,Other,2021,1050
+North America,Other,2022,650
+North America,Other,2023,1270
+North America,Other,2025,850
+North America,Real estate,2007,150
+North America,Real estate,2009,2000
+North America,Real estate,2010,1030
+North America,Real estate,2011,840
+North America,Real estate,2012,500
+North America,Real estate,2013,4160
+North America,Real estate,2014,5130
+North America,Real estate,2015,4810
+North America,Real estate,2016,9410
+North America,Real estate,2017,4110
+North America,Real estate,2018,2190
+North America,Real estate,2019,1090
+North America,Real estate,2020,150
+North America,Real estate,2021,320
+North America,Real estate,2022,570
+North America,Real estate,2024,230
+North America,Technology,2005,1740
+North America,Technology,2009,240
+North America,Technology,2012,300
+North America,Technology,2014,5750
+North America,Technology,2015,3470
+North America,Technology,2016,11300
+North America,Technology,2017,640
+North America,Technology,2018,130
+North America,Technology,2019,370
+North America,Technology,2020,220
+North America,Technology,2021,280
+North America,Technology,2024,320
+North America,Tourism,2009,250
+North America,Tourism,2012,130
+North America,Tourism,2013,100
+North America,Tourism,2014,3280
+North America,Tourism,2015,1570
+North America,Tourism,2016,16450
+North America,Tourism,2017,810
+North America,Tourism,2019,300
+North America,Tourism,2025,2070
+North America,Transport,2009,810
+North America,Transport,2010,1530
+North America,Transport,2011,410
+North America,Transport,2012,470
+North America,Transport,2013,400
+North America,Transport,2014,2480
+North America,Transport,2015,2090
+North America,Transport,2016,3490
+North America,Transport,2017,13410
+North America,Transport,2018,2200
+North America,Transport,2020,2660
+North America,Transport,2021,280
+North America,Transport,2022,2730
+North America,Transport,2023,2610
+North America,Transport,2024,1770
+North America,Transport,2025,1050
+North America,Utilities,2014,100
+North America,Utilities,2018,130
+North America,Utilities,2024,130
+Oceania,Agriculture,2011,530
+Oceania,Agriculture,2012,1480
+Oceania,Agriculture,2013,280
+Oceania,Agriculture,2014,500
+Oceania,Agriculture,2015,400
+Oceania,Agriculture,2016,840
+Oceania,Agriculture,2017,1030
+Oceania,Agriculture,2019,1380
+Oceania,Agriculture,2024,110
+Oceania,Chemicals,2005,180
+Oceania,Energy,2007,100
+Oceania,Energy,2008,750
+Oceania,Energy,2009,5480
+Oceania,Energy,2010,2560
+Oceania,Energy,2011,8850
+Oceania,Energy,2012,4280
+Oceania,Energy,2013,4850
+Oceania,Energy,2014,3570
+Oceania,Energy,2015,2200
+Oceania,Energy,2016,1410
+Oceania,Energy,2017,4210
+Oceania,Energy,2018,1560
+Oceania,Energy,2019,900
+Oceania,Energy,2020,470
+Oceania,Energy,2021,300
+Oceania,Energy,2022,290
+Oceania,Energy,2023,250
+Oceania,Energy,2024,250
+Oceania,Energy,2025,460
+Oceania,Entertainment,2014,740
+Oceania,Entertainment,2018,300
+Oceania,Entertainment,2019,500
+Oceania,Entertainment,2021,170
+Oceania,Entertainment,2025,200
+Oceania,Finance,2008,180
+Oceania,Finance,2009,150
+Oceania,Finance,2015,1500
+Oceania,Finance,2016,100
+Oceania,Finance,2020,250
+Oceania,Health,2015,1970
+Oceania,Health,2016,1050
+Oceania,Health,2017,1060
+Oceania,Health,2018,2780
+Oceania,Health,2019,310
+Oceania,Health,2022,950
+Oceania,Health,2023,1180
+Oceania,Logistics,2020,1120
+Oceania,Logistics,2025,310
+Oceania,Metals,2005,810
+Oceania,Metals,2006,2920
+Oceania,Metals,2007,2080
+Oceania,Metals,2008,15320
+Oceania,Metals,2009,4420
+Oceania,Metals,2010,1860
+Oceania,Metals,2011,1000
+Oceania,Metals,2012,4790
+Oceania,Metals,2013,3770
+Oceania,Metals,2014,860
+Oceania,Metals,2015,1250
+Oceania,Metals,2016,500
+Oceania,Metals,2017,230
+Oceania,Metals,2019,740
+Oceania,Metals,2020,200
+Oceania,Metals,2021,140
+Oceania,Metals,2022,970
+Oceania,Metals,2025,240
+Oceania,Other,2012,680
+Oceania,Other,2016,170
+Oceania,Other,2017,510
+Oceania,Other,2018,170
+Oceania,Other,2020,660
+Oceania,Real estate,2009,1090
+Oceania,Real estate,2012,260
+Oceania,Real estate,2013,730
+Oceania,Real estate,2014,2940
+Oceania,Real estate,2015,3100
+Oceania,Real estate,2016,1240
+Oceania,Real estate,2017,880
+Oceania,Real estate,2018,1210
+Oceania,Real estate,2019,1610
+Oceania,Real estate,2020,970
+Oceania,Real estate,2021,140
+Oceania,Real estate,2022,860
+Oceania,Technology,2016,120
+Oceania,Technology,2017,280
+Oceania,Technology,2018,200
+Oceania,Tourism,2014,400
+Oceania,Tourism,2015,470
+Oceania,Tourism,2017,100
+Oceania,Tourism,2019,100
+Oceania,Tourism,2024,140
+Oceania,Transport,2010,550
+Oceania,Transport,2011,320
+Oceania,Transport,2012,290
+Oceania,Transport,2013,310
+Oceania,Transport,2014,1730
+Oceania,Transport,2015,1650
+Oceania,Transport,2016,3390
+Oceania,Transport,2017,3710
+Oceania,Transport,2018,2250
+Oceania,Transport,2019,1090
+Oceania,Transport,2020,1240
+Oceania,Transport,2021,1100
+Oceania,Transport,2022,1850
+Oceania,Transport,2023,1170
+Oceania,Transport,2024,890
+Oceania,Transport,2025,2240
+Oceania,Utilities,2014,800
+Oceania,Utilities,2016,180
+Oceania,Utilities,2017,510
+Oceania,Utilities,2018,210
+Oceania,Utilities,2019,260
+Oceania,Utilities,2024,160
+South America,Agriculture,2007,110
+South America,Agriculture,2008,140
+South America,Agriculture,2009,480
+South America,Agriculture,2010,290
+South America,Agriculture,2011,570
+South America,Agriculture,2012,170
+South America,Agriculture,2013,320
+South America,Agriculture,2014,1100
+South America,Agriculture,2015,180
+South America,Agriculture,2016,290
+South America,Agriculture,2017,1350
+South America,Agriculture,2018,830
+South America,Agriculture,2022,110
+South America,Chemicals,2010,110
+South America,Chemicals,2011,460
+South America,Chemicals,2016,1540
+South America,Chemicals,2018,100
+South America,Energy,2005,1850
+South America,Energy,2006,1720
+South America,Energy,2008,110
+South America,Energy,2010,24310
+South America,Energy,2011,6170
+South America,Energy,2012,6310
+South America,Energy,2013,7180
+South America,Energy,2014,3060
+South America,Energy,2015,7120
+South America,Energy,2016,14260
+South America,Energy,2017,10280
+South America,Energy,2018,6070
+South America,Energy,2019,11090
+South America,Energy,2020,5730
+South America,Energy,2021,7410
+South America,Energy,2022,8220
+South America,Energy,2023,5580
+South America,Energy,2024,3710
+South America,Energy,2025,5640
+South America,Finance,2010,200
+South America,Finance,2011,880
+South America,Finance,2012,200
+South America,Finance,2013,720
+South America,Finance,2015,390
+South America,Finance,2018,390
+South America,Finance,2020,180
+South America,Finance,2021,100
+South America,Health,2013,250
+South America,Health,2016,200
+South America,Health,2021,300
+South America,Health,2022,850
+South America,Health,2024,280
+South America,Logistics,2011,260
+South America,Logistics,2012,460
+South America,Logistics,2019,230
+South America,Logistics,2025,450
+South America,Metals,2005,240
+South America,Metals,2006,340
+South America,Metals,2007,1430
+South America,Metals,2008,2160
+South America,Metals,2009,1990
+South America,Metals,2010,4150
+South America,Metals,2011,1950
+South America,Metals,2012,100
+South America,Metals,2014,9490
+South America,Metals,2016,210
+South America,Metals,2017,1460
+South America,Metals,2018,7020
+South America,Metals,2019,1510
+South America,Metals,2020,240
+South America,Metals,2021,1410
+South America,Metals,2022,1960
+South America,Metals,2023,2260
+South America,Metals,2024,1780
+South America,Metals,2025,3270
+South America,Other,2020,120
+South America,Other,2023,110
+South America,Other,2024,490
+South America,Other,2025,390
+South America,Real estate,2005,1190
+South America,Real estate,2010,200
+South America,Real estate,2011,1590
+South America,Real estate,2013,200
+South America,Real estate,2014,1060
+South America,Real estate,2015,300
+South America,Real estate,2016,100
+South America,Real estate,2017,520
+South America,Real estate,2025,310
+South America,Technology,2011,300
+South America,Technology,2012,150
+South America,Technology,2013,300
+South America,Technology,2015,300
+South America,Technology,2019,300
+South America,Technology,2023,170
+South America,Technology,2024,120
+South America,Tourism,2018,100
+South America,Transport,2005,370
+South America,Transport,2009,100
+South America,Transport,2010,100
+South America,Transport,2011,1330
+South America,Transport,2013,2570
+South America,Transport,2014,1310
+South America,Transport,2015,710
+South America,Transport,2016,830
+South America,Transport,2017,1540
+South America,Transport,2018,3410
+South America,Transport,2019,1730
+South America,Transport,2020,1300
+South America,Transport,2021,5870
+South America,Transport,2022,2420
+South America,Transport,2023,4130
+South America,Transport,2024,390
+South America,Transport,2025,3090
+South America,Utilities,2010,210
+South America,Utilities,2016,240
+South America,Utilities,2017,190
+South America,Utilities,2018,1020
+South America,Utilities,2021,150
+South America,Utilities,2023,330
+South America,Utilities,2025,470
+South Asia,Agriculture,2011,770
+South Asia,Agriculture,2012,520
+South Asia,Agriculture,2013,290
+South Asia,Agriculture,2014,690
+South Asia,Agriculture,2015,110
+South Asia,Agriculture,2016,480
+South Asia,Agriculture,2018,910
+South Asia,Agriculture,2019,1130
+South Asia,Agriculture,2021,240
+South Asia,Chemicals,2018,360
+South Asia,Energy,2005,860
+South Asia,Energy,2006,1960
+South Asia,Energy,2007,4700
+South Asia,Energy,2008,1330
+South Asia,Energy,2009,2450
+South Asia,Energy,2010,5420
+South Asia,Energy,2011,3730
+South Asia,Energy,2012,890
+South Asia,Energy,2013,3890
+South Asia,Energy,2014,2480
+South Asia,Energy,2015,16980
+South Asia,Energy,2016,10020
+South Asia,Energy,2017,5810
+South Asia,Energy,2018,5460
+South Asia,Energy,2019,7310
+South Asia,Energy,2020,3470
+South Asia,Energy,2021,1700
+South Asia,Energy,2022,830
+South Asia,Energy,2023,630
+South Asia,Energy,2024,3480
+South Asia,Energy,2025,150
+South Asia,Entertainment,2016,100
+South Asia,Entertainment,2019,410
+South Asia,Finance,2014,200
+South Asia,Finance,2015,680
+South Asia,Finance,2018,340
+South Asia,Finance,2019,1240
+South Asia,Finance,2020,100
+South Asia,Health,2013,200
+South Asia,Health,2017,1080
+South Asia,Logistics,2010,160
+South Asia,Logistics,2011,280
+South Asia,Logistics,2012,150
+South Asia,Logistics,2013,660
+South Asia,Logistics,2014,390
+South Asia,Logistics,2023,270
+South Asia,Metals,2007,2870
+South Asia,Metals,2008,1310
+South Asia,Metals,2012,110
+South Asia,Metals,2014,240
+South Asia,Metals,2016,150
+South Asia,Metals,2018,3290
+South Asia,Metals,2022,130
+South Asia,Metals,2023,100
+South Asia,Metals,2024,200
+South Asia,Other,2014,120
+South Asia,Other,2015,200
+South Asia,Other,2017,990
+South Asia,Other,2018,490
+South Asia,Other,2019,2070
+South Asia,Other,2020,430
+South Asia,Other,2022,260
+South Asia,Other,2024,260
+South Asia,Other,2025,120
+South Asia,Real estate,2009,180
+South Asia,Real estate,2013,260
+South Asia,Real estate,2015,1140
+South Asia,Real estate,2016,540
+South Asia,Real estate,2017,1030
+South Asia,Real estate,2018,140
+South Asia,Real estate,2019,2580
+South Asia,Real estate,2020,1430
+South Asia,Real estate,2023,280
+South Asia,Technology,2006,550
+South Asia,Technology,2007,610
+South Asia,Technology,2008,400
+South Asia,Technology,2009,700
+South Asia,Technology,2010,220
+South Asia,Technology,2012,600
+South Asia,Technology,2013,310
+South Asia,Technology,2014,520
+South Asia,Technology,2015,610
+South Asia,Technology,2016,300
+South Asia,Technology,2017,200
+South Asia,Technology,2018,760
+South Asia,Technology,2019,310
+South Asia,Technology,2022,1450
+South Asia,Technology,2025,230
+South Asia,Tourism,2012,230
+South Asia,Tourism,2013,540
+South Asia,Tourism,2016,180
+South Asia,Tourism,2019,1090
+South Asia,Tourism,2022,290
+South Asia,Tourism,2023,140
+South Asia,Transport,2006,490
+South Asia,Transport,2007,540
+South Asia,Transport,2008,730
+South Asia,Transport,2009,730
+South Asia,Transport,2010,600
+South Asia,Transport,2011,1600
+South Asia,Transport,2013,710
+South Asia,Transport,2014,2160
+South Asia,Transport,2015,8810
+South Asia,Transport,2016,2600
+South Asia,Transport,2017,1670
+South Asia,Transport,2018,5310
+South Asia,Transport,2019,1600
+South Asia,Transport,2020,1920
+South Asia,Transport,2021,1070
+South Asia,Transport,2022,680
+South Asia,Transport,2023,280
+South Asia,Transport,2024,110
+South Asia,Utilities,2007,100
+South Asia,Utilities,2012,310
+South Asia,Utilities,2015,100
+South Asia,Utilities,2017,120
+South Asia,Utilities,2018,280
+South Asia,Utilities,2019,1660
+South Asia,Utilities,2020,230
+South Asia,Utilities,2021,140
+South Asia,Utilities,2022,640
+South Asia,Utilities,2025,620
+Southeast Asia,Agriculture,2006,430
+Southeast Asia,Agriculture,2008,1100
+Southeast Asia,Agriculture,2010,1500
+Southeast Asia,Agriculture,2011,100
+Southeast Asia,Agriculture,2016,1080
+Southeast Asia,Agriculture,2017,280
+Southeast Asia,Agriculture,2018,470
+Southeast Asia,Agriculture,2019,630
+Southeast Asia,Agriculture,2020,140
+Southeast Asia,Agriculture,2021,410
+Southeast Asia,Agriculture,2022,210
+Southeast Asia,Agriculture,2023,840
+Southeast Asia,Agriculture,2024,400
+Southeast Asia,Agriculture,2025,430
+Southeast Asia,Chemicals,2013,110
+Southeast Asia,Chemicals,2014,440
+Southeast Asia,Chemicals,2015,400
+Southeast Asia,Chemicals,2016,300
+Southeast Asia,Chemicals,2017,100
+Southeast Asia,Chemicals,2019,180
+Southeast Asia,Chemicals,2022,160
+Southeast Asia,Chemicals,2023,580
+Southeast Asia,Chemicals,2024,690
+Southeast Asia,Chemicals,2025,1630
+Southeast Asia,Energy,2005,1390
+Southeast Asia,Energy,2006,1780
+Southeast Asia,Energy,2007,2830
+Southeast Asia,Energy,2008,5180
+Southeast Asia,Energy,2009,6030
+Southeast Asia,Energy,2010,9930
+Southeast Asia,Energy,2011,5490
+Southeast Asia,Energy,2012,2620
+Southeast Asia,Energy,2013,4570
+Southeast Asia,Energy,2014,8980
+Southeast Asia,Energy,2015,16420
+Southeast Asia,Energy,2016,12200
+Southeast Asia,Energy,2017,6270
+Southeast Asia,Energy,2018,3870
+Southeast Asia,Energy,2019,3720
+Southeast Asia,Energy,2020,10450
+Southeast Asia,Energy,2021,2510
+Southeast Asia,Energy,2022,4060
+Southeast Asia,Energy,2023,3920
+Southeast Asia,Energy,2024,5930
+Southeast Asia,Energy,2025,4000
+Southeast Asia,Entertainment,2008,520
+Southeast Asia,Entertainment,2012,240
+Southeast Asia,Entertainment,2017,630
+Southeast Asia,Entertainment,2018,370
+Southeast Asia,Entertainment,2019,1080
+Southeast Asia,Entertainment,2020,160
+Southeast Asia,Finance,2009,530
+Southeast Asia,Finance,2010,170
+Southeast Asia,Finance,2015,1500
+Southeast Asia,Finance,2016,990
+Southeast Asia,Finance,2017,420
+Southeast Asia,Finance,2022,3160
+Southeast Asia,Finance,2024,170
+Southeast Asia,Health,2018,110
+Southeast Asia,Health,2023,140
+Southeast Asia,Health,2025,220
+Southeast Asia,Logistics,2011,1260
+Southeast Asia,Logistics,2014,370
+Southeast Asia,Logistics,2015,150
+Southeast Asia,Logistics,2016,190
+Southeast Asia,Logistics,2017,10090
+Southeast Asia,Logistics,2018,760
+Southeast Asia,Logistics,2020,750
+Southeast Asia,Logistics,2021,1780
+Southeast Asia,Logistics,2023,920
+Southeast Asia,Logistics,2024,110
+Southeast Asia,Metals,2008,1270
+Southeast Asia,Metals,2010,3070
+Southeast Asia,Metals,2011,2840
+Southeast Asia,Metals,2012,4150
+Southeast Asia,Metals,2013,1680
+Southeast Asia,Metals,2014,1980
+Southeast Asia,Metals,2015,740
+Southeast Asia,Metals,2016,1010
+Southeast Asia,Metals,2017,1860
+Southeast Asia,Metals,2018,2530
+Southeast Asia,Metals,2019,4920
+Southeast Asia,Metals,2020,2450
+Southeast Asia,Metals,2021,2630
+Southeast Asia,Metals,2022,1830
+Southeast Asia,Metals,2023,3910
+Southeast Asia,Metals,2024,4770
+Southeast Asia,Metals,2025,930
+Southeast Asia,Other,2005,150
+Southeast Asia,Other,2010,200
+Southeast Asia,Other,2012,1480
+Southeast Asia,Other,2013,410
+Southeast Asia,Other,2014,410
+Southeast Asia,Other,2016,1170
+Southeast Asia,Other,2017,2020
+Southeast Asia,Other,2018,3140
+Southeast Asia,Other,2019,1740
+Southeast Asia,Other,2020,630
+Southeast Asia,Other,2021,720
+Southeast Asia,Other,2022,3130
+Southeast Asia,Other,2023,3090
+Southeast Asia,Other,2024,2230
+Southeast Asia,Other,2025,530
+Southeast Asia,Real estate,2009,320
+Southeast Asia,Real estate,2010,640
+Southeast Asia,Real estate,2011,1870
+Southeast Asia,Real estate,2012,3080
+Southeast Asia,Real estate,2013,3070
+Southeast Asia,Real estate,2014,1540
+Southeast Asia,Real estate,2015,2940
+Southeast Asia,Real estate,2016,2790
+Southeast Asia,Real estate,2017,4000
+Southeast Asia,Real estate,2018,3010
+Southeast Asia,Real estate,2019,2590
+Southeast Asia,Real estate,2020,1410
+Southeast Asia,Real estate,2021,1000
+Southeast Asia,Real estate,2022,2180
+Southeast Asia,Real estate,2023,1280
+Southeast Asia,Real estate,2024,290
+Southeast Asia,Real estate,2025,940
+Southeast Asia,Technology,2009,490
+Southeast Asia,Technology,2010,200
+Southeast Asia,Technology,2012,350
+Southeast Asia,Technology,2013,110
+Southeast Asia,Technology,2014,1000
+Southeast Asia,Technology,2015,2030
+Southeast Asia,Technology,2016,210
+Southeast Asia,Technology,2018,1010
+Southeast Asia,Technology,2019,880
+Southeast Asia,Technology,2020,190
+Southeast Asia,Technology,2021,140
+Southeast Asia,Technology,2022,100
+Southeast Asia,Technology,2023,1470
+Southeast Asia,Technology,2024,1570
+Southeast Asia,Technology,2025,1220
+Southeast Asia,Tourism,2008,1550
+Southeast Asia,Tourism,2012,100
+Southeast Asia,Tourism,2016,1890
+Southeast Asia,Tourism,2017,550
+Southeast Asia,Tourism,2018,130
+Southeast Asia,Tourism,2019,390
+Southeast Asia,Tourism,2023,170
+Southeast Asia,Tourism,2025,290
+Southeast Asia,Transport,2005,200
+Southeast Asia,Transport,2006,970
+Southeast Asia,Transport,2008,1480
+Southeast Asia,Transport,2009,1380
+Southeast Asia,Transport,2010,900
+Southeast Asia,Transport,2011,1440
+Southeast Asia,Transport,2012,820
+Southeast Asia,Transport,2013,3340
+Southeast Asia,Transport,2014,760
+Southeast Asia,Transport,2015,3420
+Southeast Asia,Transport,2016,3460
+Southeast Asia,Transport,2017,2570
+Southeast Asia,Transport,2018,13270
+Southeast Asia,Transport,2019,10090
+Southeast Asia,Transport,2020,7220
+Southeast Asia,Transport,2021,3700
+Southeast Asia,Transport,2022,4620
+Southeast Asia,Transport,2023,6380
+Southeast Asia,Transport,2024,7450
+Southeast Asia,Transport,2025,5220
+Southeast Asia,Utilities,2008,3040
+Southeast Asia,Utilities,2009,110
+Southeast Asia,Utilities,2011,330
+Southeast Asia,Utilities,2015,970
+Southeast Asia,Utilities,2016,260
+Southeast Asia,Utilities,2017,350
+Southeast Asia,Utilities,2018,140
+Southeast Asia,Utilities,2019,200
+Southeast Asia,Utilities,2020,830
+Southeast Asia,Utilities,2021,380
+Southeast Asia,Utilities,2025,100
+Sub-Saharan Africa,Agriculture,2007,160
+Sub-Saharan Africa,Agriculture,2010,200
+Sub-Saharan Africa,Agriculture,2011,280
+Sub-Saharan Africa,Agriculture,2012,830
+Sub-Saharan Africa,Agriculture,2013,680
+Sub-Saharan Africa,Agriculture,2014,2000
+Sub-Saharan Africa,Agriculture,2016,390
+Sub-Saharan Africa,Agriculture,2017,590
+Sub-Saharan Africa,Agriculture,2019,100
+Sub-Saharan Africa,Agriculture,2020,450
+Sub-Saharan Africa,Agriculture,2022,630
+Sub-Saharan Africa,Agriculture,2023,1090
+Sub-Saharan Africa,Agriculture,2024,100
+Sub-Saharan Africa,Agriculture,2025,670
+Sub-Saharan Africa,Chemicals,2016,700
+Sub-Saharan Africa,Chemicals,2019,300
+Sub-Saharan Africa,Energy,2006,3600
+Sub-Saharan Africa,Energy,2007,1650
+Sub-Saharan Africa,Energy,2008,680
+Sub-Saharan Africa,Energy,2009,5870
+Sub-Saharan Africa,Energy,2010,6500
+Sub-Saharan Africa,Energy,2011,4860
+Sub-Saharan Africa,Energy,2012,8650
+Sub-Saharan Africa,Energy,2013,16080
+Sub-Saharan Africa,Energy,2014,6710
+Sub-Saharan Africa,Energy,2015,9940
+Sub-Saharan Africa,Energy,2016,5330
+Sub-Saharan Africa,Energy,2017,5140
+Sub-Saharan Africa,Energy,2018,9950
+Sub-Saharan Africa,Energy,2019,7010
+Sub-Saharan Africa,Energy,2020,2860
+Sub-Saharan Africa,Energy,2021,3560
+Sub-Saharan Africa,Energy,2022,1910
+Sub-Saharan Africa,Energy,2023,1970
+Sub-Saharan Africa,Energy,2024,7060
+Sub-Saharan Africa,Energy,2025,1690
+Sub-Saharan Africa,Entertainment,2007,120
+Sub-Saharan Africa,Entertainment,2010,320
+Sub-Saharan Africa,Entertainment,2013,120
+Sub-Saharan Africa,Entertainment,2014,520
+Sub-Saharan Africa,Entertainment,2015,100
+Sub-Saharan Africa,Entertainment,2016,160
+Sub-Saharan Africa,Entertainment,2018,380
+Sub-Saharan Africa,Entertainment,2022,190
+Sub-Saharan Africa,Entertainment,2024,450
+Sub-Saharan Africa,Finance,2007,5600
+Sub-Saharan Africa,Finance,2011,250
+Sub-Saharan Africa,Finance,2015,270
+Sub-Saharan Africa,Finance,2018,430
+Sub-Saharan Africa,Finance,2021,100
+Sub-Saharan Africa,Finance,2022,500
+Sub-Saharan Africa,Health,2008,100
+Sub-Saharan Africa,Health,2013,610
+Sub-Saharan Africa,Health,2014,100
+Sub-Saharan Africa,Health,2015,160
+Sub-Saharan Africa,Health,2020,130
+Sub-Saharan Africa,Health,2021,520
+Sub-Saharan Africa,Health,2022,170
+Sub-Saharan Africa,Health,2023,110
+Sub-Saharan Africa,Logistics,2010,150
+Sub-Saharan Africa,Logistics,2012,190
+Sub-Saharan Africa,Logistics,2013,300
+Sub-Saharan Africa,Logistics,2015,200
+Sub-Saharan Africa,Logistics,2016,480
+Sub-Saharan Africa,Logistics,2018,370
+Sub-Saharan Africa,Logistics,2020,430
+Sub-Saharan Africa,Logistics,2021,340
+Sub-Saharan Africa,Logistics,2023,240
+Sub-Saharan Africa,Logistics,2024,270
+Sub-Saharan Africa,Metals,2006,1700
+Sub-Saharan Africa,Metals,2007,260
+Sub-Saharan Africa,Metals,2008,2840
+Sub-Saharan Africa,Metals,2009,370
+Sub-Saharan Africa,Metals,2010,1690
+Sub-Saharan Africa,Metals,2011,5620
+Sub-Saharan Africa,Metals,2012,3590
+Sub-Saharan Africa,Metals,2013,750
+Sub-Saharan Africa,Metals,2014,3050
+Sub-Saharan Africa,Metals,2015,1520
+Sub-Saharan Africa,Metals,2016,3200
+Sub-Saharan Africa,Metals,2017,1810
+Sub-Saharan Africa,Metals,2018,1750
+Sub-Saharan Africa,Metals,2019,2140
+Sub-Saharan Africa,Metals,2020,2320
+Sub-Saharan Africa,Metals,2021,4020
+Sub-Saharan Africa,Metals,2022,3200
+Sub-Saharan Africa,Metals,2023,8360
+Sub-Saharan Africa,Metals,2024,6670
+Sub-Saharan Africa,Metals,2025,6830
+Sub-Saharan Africa,Other,2011,240
+Sub-Saharan Africa,Other,2013,710
+Sub-Saharan Africa,Other,2016,700
+Sub-Saharan Africa,Other,2017,2250
+Sub-Saharan Africa,Other,2018,810
+Sub-Saharan Africa,Other,2019,420
+Sub-Saharan Africa,Other,2020,100
+Sub-Saharan Africa,Other,2021,570
+Sub-Saharan Africa,Other,2023,170
+Sub-Saharan Africa,Real estate,2006,130
+Sub-Saharan Africa,Real estate,2007,690
+Sub-Saharan Africa,Real estate,2008,4220
+Sub-Saharan Africa,Real estate,2009,1160
+Sub-Saharan Africa,Real estate,2010,870
+Sub-Saharan Africa,Real estate,2011,4800
+Sub-Saharan Africa,Real estate,2012,1020
+Sub-Saharan Africa,Real estate,2013,2050
+Sub-Saharan Africa,Real estate,2014,4710
+Sub-Saharan Africa,Real estate,2015,4700
+Sub-Saharan Africa,Real estate,2016,1030
+Sub-Saharan Africa,Real estate,2017,2520
+Sub-Saharan Africa,Real estate,2018,960
+Sub-Saharan Africa,Real estate,2019,2130
+Sub-Saharan Africa,Real estate,2020,540
+Sub-Saharan Africa,Real estate,2021,750
+Sub-Saharan Africa,Real estate,2022,1520
+Sub-Saharan Africa,Real estate,2023,3170
+Sub-Saharan Africa,Real estate,2024,1110
+Sub-Saharan Africa,Real estate,2025,770
+Sub-Saharan Africa,Technology,2006,2400
+Sub-Saharan Africa,Technology,2010,780
+Sub-Saharan Africa,Technology,2011,530
+Sub-Saharan Africa,Technology,2013,2030
+Sub-Saharan Africa,Technology,2015,730
+Sub-Saharan Africa,Technology,2016,220
+Sub-Saharan Africa,Technology,2017,280
+Sub-Saharan Africa,Technology,2018,550
+Sub-Saharan Africa,Technology,2019,170
+Sub-Saharan Africa,Technology,2020,180
+Sub-Saharan Africa,Technology,2023,250
+Sub-Saharan Africa,Tourism,2011,150
+Sub-Saharan Africa,Tourism,2013,110
+Sub-Saharan Africa,Tourism,2014,210
+Sub-Saharan Africa,Tourism,2016,130
+Sub-Saharan Africa,Tourism,2018,210
+Sub-Saharan Africa,Transport,2005,210
+Sub-Saharan Africa,Transport,2006,290
+Sub-Saharan Africa,Transport,2007,1980
+Sub-Saharan Africa,Transport,2008,5230
+Sub-Saharan Africa,Transport,2009,2660
+Sub-Saharan Africa,Transport,2010,1290
+Sub-Saharan Africa,Transport,2011,9090
+Sub-Saharan Africa,Transport,2012,11500
+Sub-Saharan Africa,Transport,2013,4470
+Sub-Saharan Africa,Transport,2014,9840
+Sub-Saharan Africa,Transport,2015,5790
+Sub-Saharan Africa,Transport,2016,7170
+Sub-Saharan Africa,Transport,2017,8150
+Sub-Saharan Africa,Transport,2018,4480
+Sub-Saharan Africa,Transport,2019,7920
+Sub-Saharan Africa,Transport,2020,4350
+Sub-Saharan Africa,Transport,2021,2130
+Sub-Saharan Africa,Transport,2022,1880
+Sub-Saharan Africa,Transport,2023,6640
+Sub-Saharan Africa,Transport,2024,2610
+Sub-Saharan Africa,Transport,2025,4580
+Sub-Saharan Africa,Utilities,2006,170
+Sub-Saharan Africa,Utilities,2008,150
+Sub-Saharan Africa,Utilities,2009,300
+Sub-Saharan Africa,Utilities,2010,710
+Sub-Saharan Africa,Utilities,2011,270
+Sub-Saharan Africa,Utilities,2012,770
+Sub-Saharan Africa,Utilities,2013,800
+Sub-Saharan Africa,Utilities,2014,940
+Sub-Saharan Africa,Utilities,2015,1400
+Sub-Saharan Africa,Utilities,2016,920
+Sub-Saharan Africa,Utilities,2017,830
+Sub-Saharan Africa,Utilities,2018,230
+Sub-Saharan Africa,Utilities,2019,1320
+Sub-Saharan Africa,Utilities,2020,520
+Sub-Saharan Africa,Utilities,2022,190
+Sub-Saharan Africa,Utilities,2024,280
+Sub-Saharan Africa,Utilities,2025,1160
+Western Asia/Caucasus,Agriculture,2010,270
+Western Asia/Caucasus,Agriculture,2013,2040
+Western Asia/Caucasus,Agriculture,2015,540
+Western Asia/Caucasus,Agriculture,2020,450
+Western Asia/Caucasus,Agriculture,2023,370
+Western Asia/Caucasus,Chemicals,2013,1160
+Western Asia/Caucasus,Chemicals,2016,440
+Western Asia/Caucasus,Chemicals,2019,1480
+Western Asia/Caucasus,Chemicals,2020,890
+Western Asia/Caucasus,Chemicals,2021,2140
+Western Asia/Caucasus,Chemicals,2022,160
+Western Asia/Caucasus,Chemicals,2023,610
+Western Asia/Caucasus,Chemicals,2024,140
+Western Asia/Caucasus,Energy,2006,3990
+Western Asia/Caucasus,Energy,2007,820
+Western Asia/Caucasus,Energy,2008,760
+Western Asia/Caucasus,Energy,2009,300
+Western Asia/Caucasus,Energy,2010,890
+Western Asia/Caucasus,Energy,2011,2290
+Western Asia/Caucasus,Energy,2012,2170
+Western Asia/Caucasus,Energy,2013,5300
+Western Asia/Caucasus,Energy,2014,5020
+Western Asia/Caucasus,Energy,2015,2930
+Western Asia/Caucasus,Energy,2016,3310
+Western Asia/Caucasus,Energy,2017,7100
+Western Asia/Caucasus,Energy,2018,420
+Western Asia/Caucasus,Energy,2019,6080
+Western Asia/Caucasus,Energy,2020,770
+Western Asia/Caucasus,Energy,2021,900
+Western Asia/Caucasus,Energy,2023,130
+Western Asia/Caucasus,Energy,2024,550
+Western Asia/Caucasus,Energy,2025,1390
+Western Asia/Caucasus,Finance,2011,100
+Western Asia/Caucasus,Finance,2012,1000
+Western Asia/Caucasus,Finance,2013,200
+Western Asia/Caucasus,Finance,2014,320
+Western Asia/Caucasus,Finance,2016,110
+Western Asia/Caucasus,Logistics,2015,920
+Western Asia/Caucasus,Logistics,2018,150
+Western Asia/Caucasus,Metals,2009,920
+Western Asia/Caucasus,Metals,2010,1200
+Western Asia/Caucasus,Metals,2011,1320
+Western Asia/Caucasus,Metals,2012,1020
+Western Asia/Caucasus,Metals,2013,750
+Western Asia/Caucasus,Metals,2015,770
+Western Asia/Caucasus,Metals,2016,180
+Western Asia/Caucasus,Metals,2018,1850
+Western Asia/Caucasus,Metals,2019,100
+Western Asia/Caucasus,Metals,2021,1250
+Western Asia/Caucasus,Metals,2023,460
+Western Asia/Caucasus,Metals,2025,220
+Western Asia/Caucasus,Other,2006,120
+Western Asia/Caucasus,Other,2010,100
+Western Asia/Caucasus,Other,2013,100
+Western Asia/Caucasus,Other,2015,1780
+Western Asia/Caucasus,Other,2018,730
+Western Asia/Caucasus,Other,2019,340
+Western Asia/Caucasus,Other,2021,350
+Western Asia/Caucasus,Other,2023,360
+Western Asia/Caucasus,Real estate,2006,1300
+Western Asia/Caucasus,Real estate,2008,550
+Western Asia/Caucasus,Real estate,2009,820
+Western Asia/Caucasus,Real estate,2010,920
+Western Asia/Caucasus,Real estate,2011,450
+Western Asia/Caucasus,Real estate,2012,170
+Western Asia/Caucasus,Real estate,2014,1040
+Western Asia/Caucasus,Real estate,2015,570
+Western Asia/Caucasus,Real estate,2017,590
+Western Asia/Caucasus,Real estate,2018,190
+Western Asia/Caucasus,Real estate,2019,110
+Western Asia/Caucasus,Technology,2010,300
+Western Asia/Caucasus,Technology,2015,100
+Western Asia/Caucasus,Technology,2016,100
+Western Asia/Caucasus,Technology,2018,480
+Western Asia/Caucasus,Tourism,2008,200
+Western Asia/Caucasus,Transport,2005,1270
+Western Asia/Caucasus,Transport,2010,460
+Western Asia/Caucasus,Transport,2011,540
+Western Asia/Caucasus,Transport,2012,250
+Western Asia/Caucasus,Transport,2015,990
+Western Asia/Caucasus,Transport,2016,140
+Western Asia/Caucasus,Transport,2017,390
+Western Asia/Caucasus,Transport,2018,290
+Western Asia/Caucasus,Transport,2019,1180
+Western Asia/Caucasus,Transport,2020,740
+Western Asia/Caucasus,Transport,2021,310
