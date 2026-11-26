@@ -44,7 +44,7 @@ thesis_data_collection/
   The analysis shows that almost 1 trillion and 500 billion USD combined investment and construction of observed activity types were directed toward the energy and transportation sectors, respectively. This indicates a strong concentration of investment activity (as shown in sector_investment.png).
 
 - **Investment patterns vary substantially across countries.**
-  Indonesian being the independent variable country examined in this thesis, the analysis is further broken down into regions. Southeast Asia presents itself as a region that China has heavily invested in in the energy and transport sectors. The analysis shows Indonesia as the Southeast Asian country receiving the largest share of investment, with Singapore being the second (as shown in country_investment.png).
+  Indonesia being the independent variable country examined in this thesis, the analysis is further broken down into regions. Southeast Asia presents itself as a region that China has heavily invested in in the energy and transport sectors. The analysis shows Indonesia as the Southeast Asian country receiving the largest share of investment, with Singapore being the second (as shown in country_investment.png).
 
 - **Investment activity changed over time.**
   The analysis identifies a notable shift in regional investment proportion for Southeast Asia after 2016, suggesting changes in the composition of investment. Middle East and North Africa (shortened MENA) does not see a noticeable progressive pattern in their regional investment shift, indicating a strategic investment shift from China (as pictured in regional_shift_share_v2.png).
@@ -67,7 +67,7 @@ Data-wise, because the dataset may be updated over time, results obtained using 
 Scope-wise, the analysis primarily identifies patterns and distributions in the available data. It does not establish causal relationships between Chinese investment and particular economic or political outcomes.
 
 ## Citation
-American Enterprise Institute. 2024. "China Global Investment Tracker." AEI. https://www.aei.org/china-global-investment-tracker/.
+American Enterprise Institute and The Heritage Foundation. "China Global Investment Tracker." Accessed April 2025. https://www.aei.org/china-global-investment-tracker/.
 
 ## Version Control
 
