@@ -26,9 +26,9 @@ AI-assisted tools (Gemini CLI) were used during coding. All generated code was r
 
 ```text
 thesis_data_collection/
-├── summary/           # Documentation for the summary CSVs
 ├── scripts/           # R scripts for data cleaning, processing, and analysis
 ├── static/            # Generated figures, tables, and analysis outputs
+├── summary/           # Documentation for the summary CSVs
 └── README.md          # Project overview, methodology, and key findings
 ```
 
