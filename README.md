@@ -67,7 +67,7 @@ Data-wise, because the dataset may be updated over time, results obtained using 
 Scope-wise, the analysis primarily identifies patterns and distributions in the available data. It does not establish causal relationships between Chinese investment and particular economic or political outcomes.
 
 ## Citation
-American Enterprise Institute and The Heritage Foundation. "China Global Investment Tracker." Accessed April 2025. https://www.aei.org/china-global-investment-tracker/.
+American Enterprise Institute and The Heritage Foundation. "China Global Investment Tracker." Accessed March 2025. https://www.aei.org/china-global-investment-tracker/.
 
 ## Version Control
 
