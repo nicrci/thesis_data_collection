@@ -10,6 +10,8 @@ Specifically, this analysis examines the question: **What patterns can be observ
 The original dataset is not included in this repository. Please refer to the original source for information on obtaining the underlying dataset.
 [American Enterprise Institute's China Global Investment Tracker](https://www.aei.org/china-global-investment-tracker/)
 
+All figures and tables in `static/` are the author's own calculations based on the China Global Investment Tracker. The regional groupings used in this repository (e.g., Southeast Asia, Oceania, and MENA) are defined by the author and differ from AEI's regional classifications; therefore, the regional totals presented here may not match those published by AEI.
+
 The analysis scripts in `scripts/` demonstrate the data processing and analytical workflow used in the project.
 
 ## Methodology
